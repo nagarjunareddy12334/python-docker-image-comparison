@@ -21,8 +21,8 @@ Build the same Python application on two base images, then compare sizes, run bo
 1. On GitHub, click **New repository**, name it `python-docker-image-comparison`, and create it (add no files).
 2. Clone it and enter the folder:
    ```bash
-   https://github.com/SHARMIgithubrit/python-docker-image-comparison
-   cd python-docker-image-comparison
+   https://github.com/nagarjunareddy12334/python-docker-image-comparison.git
+   
    ```
  
 ## Step 2: Create the project files
